@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Master’s Thesis (ongoing) — Conceptual & Psychometric Foundations of Socio-Emotional Skills (BESSI)\n\n\nTopic: Psychometric validation of a short-form instrument to assess socio-emotional skills in adolescents.\n\n\nContent: In my master’s thesis, I investigate the conceptual and psychometric foundations of socio-emotional skills measurement, focusing on the distinction between skills (“I can”) and personality traits (“I am”). The project examines whether high correlations reflect substantive overlap or near-synonymous item wording.\n\n\nMethods:\n\n\n\nLarge longitudinal sample of upper secondary students\n\n\nExploratory Structural Equation Modeling (ESEM)\n\n\nLongitudinal measurement invariance testing\n\n\nLatent stability models\n\n\nR (lavaan), FIML for missing data\n\n\n\n\n\nSecondary Analysis — ITT & CACE effects in a digital socio-emotional intervention\n\n\nTopic: Compliance-sensitive causal effects in a digital socio-emotional intervention for preschool children.\n\n\nContent: Secondary analysis of a randomized controlled trial. Beyond intention-to-treat (ITT), I applied Complier Average Causal Effect (CACE) models to examine how intervention effects depend on actual usage (compliance).\n\n\nMethods:\n\n\n\nSecondary analysis of an RCT\n\n\nITT vs. CACE comparison\n\n\nFIML for missing data\n\n\nSensitivity and tipping-point analyses\n\n\n\nKey contribution: ITT effects were small/absent, while CACE estimates suggested stronger effects among high-compliance participants and highlighted threats to causal interpretation when design assumptions are weak.\n\n\n\n\nExperimental Study — Epistemic emotions and information-seeking\n\n\nTopic: Epistemic emotions, misinformation, and exploratory information-seeking.\n\n\nContent: In an online experiment, we tested whether stylistic framings of refutation texts induce epistemic emotions (confusion vs. situational interest) and influence exploratory information-seeking behaviour and comprehension.\n\n\nMethods:\n\n\n\nOnline experiment (between-subjects)\n\n\nManipulation via text design\n\n\nBehavioural measure (click behaviour)\n\n\nRegression models, ANOVA, robustness checks\n\n\n\nKey contribution: No clear condition differences, but the study provides a methodological analysis of limits in emotion induction and click-based proxies.\n\n\n\n\nBachelor’s Thesis — Mediation model of mindfulness, decentering, and emotional competence\n\n\nTopic: Do decentering and emotional competence mediate the relationship between mindfulness and well-being?\n\n\nContent: In my bachelor’s thesis, I examined whether the relationship between mindfulness and well-being can be explained by underlying mechanisms, specifically decentering and emotional competence. Using cross-sectional survey data, I tested a mediation model to explore potential indirect pathways.\n\n\nMethods:\n\n\n\nOnline survey study (N = 190)\n\n\nMediation analysis using PROCESS (Hayes)\n\n\nBootstrapping (5,000 iterations)\n\n\nPath analysis (SPSS AMOS)\n\n\nA priori power analysis\n\n\n\nKey contribution: While causal interpretation was limited due to the correlational design, the project introduced a mechanistic perspective on socio-emotional competencies and highlighted the need for experimental and compliance-sensitive approaches in subsequent work."
+  },
+  {
+    "objectID": "Projects.html#masters-thesis-ongoing",
+    "href": "Projects.html#masters-thesis-ongoing",
+    "title": "Projects",
+    "section": "",
+    "text": "Conceptual and Psychometric Foundations of Socio-Emotional Skills (BESSI)\nTopic:\nPsychometric validation of a short-form instrument to assess socio-emotional skills in adolescents.\nContent:\nIn my master’s thesis, I investigate the conceptual and psychometric foundations of socio-emotional skills measurement, using the German 45-item version of the Behavioral, Emotional, and Social Skills Inventory (BESSI-G). A central focus of the thesis is the theoretical distinction between skills and personality traits, particularly the question of whether skill measures capture functional capacities (“I can”) or merely rephrase trait-like tendencies (“I am”).\nBuilding on recent critiques of semantic redundancy in personality and skills research, the thesis examines whether high correlations between skills and traits reflect substantive overlap or arise from near-synonymous item wording. Rather than treating correlations as evidence for construct equivalence, the project approaches this issue from a measurement perspective, emphasizing construct definition, item semantics, and factorial structure.\nMethodologically, the thesis employs longitudinal psychometric models to assess the factorial structure and measurement invariance of the BESSI-G across time, providing a necessary precondition for interpreting change, stability, and intervention effects in socio-emotional competencies.\nMethods:\n\nLarge longitudinal sample of upper secondary students\nExploratory Structural Equation Modeling (ESEM)\nWSMLV vs. ML\nLongitudinal measurement invariance testing\nLatent stability models\nR (lavaan), FIML for missing data"
+  },
+  {
+    "objectID": "Projects.html#secondary-analysis-of-a-randomized-intervention",
+    "href": "Projects.html#secondary-analysis-of-a-randomized-intervention",
+    "title": "Projects",
+    "section": "Secondary Analysis of a Randomized Intervention",
+    "text": "Secondary Analysis of a Randomized Intervention\nTopic:\nCompliance-sensitive causal effects in a digital socio-emotional intervention for preschool children.\nContent:\nI conducted a secondary analysis of a randomized controlled trial evaluating a digital socio-emotional training program for preschoolers. Beyond standard intention-to-treat (ITT) analyses, I applied Complier Average Causal Effect (CACE) models to examine how intervention effects depend on actual usage (compliance).\nMethods:\n\nSecondary analysis of an RCT\nITT vs. CACE comparison\nFIML for missing data\nSensitivity and tipping-point analyses\n\nKey contribution:\nWhile ITT effects were small or absent, CACE analyses revealed stronger effects among high-compliance participants. At the same time, the study critically discusses design-related threats to causal inference (e.g., resentful demoralization, control group issues), illustrating the limits of statistical corrections when design assumptions are violated."
+  },
+  {
+    "objectID": "Projects.html#experimental-study-on-epistemic-emotions",
+    "href": "Projects.html#experimental-study-on-epistemic-emotions",
+    "title": "Projects",
+    "section": "Experimental Study on Epistemic Emotions",
+    "text": "Experimental Study on Epistemic Emotions\nTopic:\nEpistemic emotions, misinformation, and exploratory information-seeking.\nContent:\nIn an experimental online study, we investigated whether stylistic framings of refutation texts induce epistemic emotions (confusion vs. situational interest) and thereby influence exploratory information-seeking behavior and text comprehension.\nMethods:\n\nOnline experiment (between-subjects)\nManipulation of epistemic emotions via text design\nBehavioral measure of information seeking (click behavior)\nRegression models, ANOVA, non-parametric robustness checks\n\nKey contribution:\nThe study did not find significant differences between conditions, but offers a detailed methodological analysis of why subtle text framings may be insufficient to manipulate epistemic emotions. The work highlights challenges in emotion induction, retrospective measurement, and the limitations of click-based proxies for information seeking."
+  },
+  {
+    "objectID": "About_me.html",
+    "href": "About_me.html",
+    "title": "About",
+    "section": "",
+    "text": "Master’s Student | Empirical Educational Research & Educational Psychology\nUniversity of Tübingen (Expected graduation: October 2026)\nI study how socio-emotional and self-regulatory competencies can be defined, measured, and causally interpreted in educational contexts—especially when real-world research designs limit what conclusions are justified.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nQuick facts\n- M.Sc. Empirical Educational Research (Tübingen)\n- Focus: assessment & evaluation of socio-emotional competencies\n- Tools: R · Quarto · SPSS · MAXQDA · JATOS\n\n\n\n\n\nI am interested in how socio-emotional and self-regulatory competencies can be conceptually defined, validly measured, and causally interpreted in educational contexts.\nThese competencies are widely considered important for educational success and democratic participation, yet their measurement and evaluation pose substantial methodological challenges.\n\n\n\n\n\nMy methodological focus lies in quantitative research designs and psychometric approaches, including the evaluation of measurement models, longitudinal analyses, and experimental interventions.\nI work primarily with reproducible workflows in R and Quarto.\n\nQuantitative methodsQualitative methodsResearch practiceScientific communication\n\n\n\nQuantitative data analysis in R\nMeasurement models & psychometrics (e.g., factor models; measurement invariance)\nExperimental and quasi-experimental evaluation (e.g., ITT / CACE in secondary analyses)\nLongitudinal data analysis and missing data handling (e.g., FIML)\n\n\n\n\nQualitative content analysis following Mayring\nCategory development based on interview material (East/West Germany)\nCoding and analysis using MAXQDA\nIdentification and structuring of stereotype-related narratives\n\n\n\n\nReproducible reporting with Quarto\nStructured project coordination and independent workflow management\nTeaching assistance in statistics (Master-level tutorial support)\nPreparation of empirical materials, reports, and presentations\n\n\n\n\nAudience-oriented explanation of methodological concepts\nClear and structured presentation of empirical findings\nDevelopment of teaching and presentation materials with focus on clarity\n\n\n\n\n\n\n\nI intend to pursue a PhD focusing on the measurement and evaluation of socio-emotional competencies and the development of empirically grounded assessment tools."
+  },
+  {
+    "objectID": "About_me.html#research-interest",
+    "href": "About_me.html#research-interest",
+    "title": "About",
+    "section": "",
+    "text": "I am interested in how socio-emotional and self-regulatory competencies can be conceptually defined, validly measured, and causally interpreted in educational contexts.\nThese competencies are widely considered important for educational success and democratic participation, yet their measurement and evaluation pose substantial methodological challenges."
+  },
+  {
+    "objectID": "About_me.html#methodological-orientation",
+    "href": "About_me.html#methodological-orientation",
+    "title": "About",
+    "section": "",
+    "text": "My methodological focus lies in quantitative research designs and psychometric approaches, including the evaluation of measurement models, longitudinal analyses, and experimental interventions.\nI work primarily with reproducible workflows in R and Quarto."
+  },
+  {
+    "objectID": "About_me.html#academic-direction",
+    "href": "About_me.html#academic-direction",
+    "title": "About",
+    "section": "",
+    "text": "I intend to pursue a PhD focusing on the measurement and evaluation of socio-emotional competencies and the development of empirically grounded assessment tools."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV & Contact",
+    "section": "",
+    "text": "You can view my current academic CV below.\nA downloadable PDF version is available for offline use."
+  },
+  {
+    "objectID": "CV.html#contact",
+    "href": "CV.html#contact",
+    "title": "CV & Contact",
+    "section": "Contact",
+    "text": "Contact\n LinkedIn Profile \n\n Download CV (PDF)"
+  },
+  {
+    "objectID": "About_me.html#research-interest-1",
+    "href": "About_me.html#research-interest-1",
+    "title": "About",
+    "section": "",
+    "text": "I am interested in how socio-emotional and self-regulatory competencies can be conceptually defined, validly measured, and causally interpreted in educational contexts.\nThese competencies are widely considered important for educational success and democratic participation, yet their measurement and evaluation pose substantial methodological challenges."
+  },
+  {
+    "objectID": "About_me.html#methods-research-practice",
+    "href": "About_me.html#methods-research-practice",
+    "title": "About",
+    "section": "",
+    "text": "My methodological focus lies in quantitative research designs and psychometric approaches, including the evaluation of measurement models, longitudinal analyses, and experimental interventions.\nI work primarily with reproducible workflows in R and Quarto.\n\nQuantitative methodsQualitative methodsResearch practiceScientific communication\n\n\n\nQuantitative data analysis in R\nMeasurement models & psychometrics (e.g., factor models; measurement invariance)\nExperimental and quasi-experimental evaluation (e.g., ITT / CACE in secondary analyses)\nLongitudinal data analysis and missing data handling (e.g., FIML)\n\n\n\n\nQualitative content analysis following Mayring\nCategory development based on interview material (East/West Germany)\nCoding and analysis using MAXQDA\nIdentification and structuring of stereotype-related narratives\n\n\n\n\nReproducible reporting with Quarto\nStructured project coordination and independent workflow management\nTeaching assistance in statistics (Master-level tutorial support)\nPreparation of empirical materials, reports, and presentations\n\n\n\n\nAudience-oriented explanation of methodological concepts\nClear and structured presentation of empirical findings\nDevelopment of teaching and presentation materials with focus on clarity"
+  },
+  {
+    "objectID": "Projects.html#research-projects",
+    "href": "Projects.html#research-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Master’s Thesis (ongoing) — Conceptual & Psychometric Foundations of Socio-Emotional Skills (BESSI)\n\n\nTopic: Psychometric validation of a short-form instrument to assess socio-emotional skills in adolescents.\n\n\nContent: In my master’s thesis, I investigate the conceptual and psychometric foundations of socio-emotional skills measurement, focusing on the distinction between skills (“I can”) and personality traits (“I am”). The project examines whether high correlations reflect substantive overlap or near-synonymous item wording.\n\n\nMethods:\n\n\n\nLarge longitudinal sample of upper secondary students\n\n\nExploratory Structural Equation Modeling (ESEM)\n\n\nLongitudinal measurement invariance testing\n\n\nLatent stability models\n\n\nR (lavaan), FIML for missing data\n\n\n\n\n\nSecondary Analysis — ITT & CACE effects in a digital socio-emotional intervention\n\n\nTopic: Compliance-sensitive causal effects in a digital socio-emotional intervention for preschool children.\n\n\nContent: Secondary analysis of a randomized controlled trial. Beyond intention-to-treat (ITT), I applied Complier Average Causal Effect (CACE) models to examine how intervention effects depend on actual usage (compliance).\n\n\nMethods:\n\n\n\nSecondary analysis of an RCT\n\n\nITT vs. CACE comparison\n\n\nFIML for missing data\n\n\nSensitivity and tipping-point analyses\n\n\n\nKey contribution: ITT effects were small/absent, while CACE estimates suggested stronger effects among high-compliance participants and highlighted threats to causal interpretation when design assumptions are weak.\n\n\n\n\nExperimental Study — Epistemic emotions and information-seeking\n\n\nTopic: Epistemic emotions, misinformation, and exploratory information-seeking.\n\n\nContent: In an online experiment, we tested whether stylistic framings of refutation texts induce epistemic emotions (confusion vs. situational interest) and influence exploratory information-seeking behaviour and comprehension.\n\n\nMethods:\n\n\n\nOnline experiment (between-subjects)\n\n\nManipulation via text design\n\n\nBehavioural measure (click behaviour)\n\n\nRegression models, ANOVA, robustness checks\n\n\n\nKey contribution: No clear condition differences, but the study provides a methodological analysis of limits in emotion induction and click-based proxies.\n\n\n\n\nBachelor’s Thesis — Mediation model of mindfulness, decentering, and emotional competence\n\n\nTopic: Do decentering and emotional competence mediate the relationship between mindfulness and well-being?\n\n\nContent: In my bachelor’s thesis, I examined whether the relationship between mindfulness and well-being can be explained by underlying mechanisms, specifically decentering and emotional competence. Using cross-sectional survey data, I tested a mediation model to explore potential indirect pathways.\n\n\nMethods:\n\n\n\nOnline survey study (N = 190)\n\n\nMediation analysis using PROCESS (Hayes)\n\n\nBootstrapping (5,000 iterations)\n\n\nPath analysis (SPSS AMOS)\n\n\nA priori power analysis\n\n\n\nKey contribution: While causal interpretation was limited due to the correlational design, the project introduced a mechanistic perspective on socio-emotional competencies and highlighted the need for experimental and compliance-sensitive approaches in subsequent work."
+  },
+  {
+    "objectID": "CV.html#curriculum-vitae",
+    "href": "CV.html#curriculum-vitae",
+    "title": "CV & Contact",
+    "section": "",
+    "text": "You can view my current academic CV below.\nA downloadable PDF version is available for offline use."
+  }
+]
